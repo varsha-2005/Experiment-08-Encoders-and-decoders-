@@ -95,7 +95,7 @@ endmodule
 
 ENCODER
 
-![image](https://github.com/varsha-2005/Experiment-08-Encoders-and-decoders-/assets/119288183/fe4fb4c0-a28f-498c-a1a1-7369faea1d0d)
+![image](https://github.com/varsha-2005/Experiment-08-Encoders-and-decoders-/assets/119288183/33299991-1c4a-4807-a14b-8179aa2b23d9)
 
 
 DECODER
@@ -108,7 +108,8 @@ DECODER
 
 ENCODER
 
-![image](https://github.com/varsha-2005/Experiment-08-Encoders-and-decoders-/assets/119288183/d937a132-b502-40cd-a4fd-f260dc9e7a77)
+![image](https://github.com/varsha-2005/Experiment-08-Encoders-and-decoders-/assets/119288183/948ee50a-8ca6-43d1-8e73-56c081183e0d)
+
 
 
 DECODER
