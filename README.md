@@ -113,20 +113,21 @@ ENCODER
 
 DECODER
 
-![Uploading image.png…]()
+![image](https://github.com/varsha-2005/Experiment-08-Encoders-and-decoders-/assets/119288183/b7adb8f7-4ddc-4abb-b6fc-42a135a3ca59)
+
 
 
 ### TRUTH TABLE 
 
 ENCODER
 
-![Uploading image.png…]()
+![image](https://github.com/varsha-2005/Experiment-08-Encoders-and-decoders-/assets/119288183/41362149-4614-4357-b019-30f9fa0e7f30)
+
 
 
 DECODER
 
-![Uploading image.png…]()
-
+![image](https://github.com/varsha-2005/Experiment-08-Encoders-and-decoders-/assets/119288183/741c6ae9-aef3-497a-a8c3-74fad71a30c6)
 
 
 ### RESULTS 
